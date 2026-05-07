@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on strengthening my DSA and core CS fundamentals.<br>👯 I’m looking to collaborate on competitive programming, open source, and impactful software projects.<br>🤝 I’m looking for help with gaining real world development exposure and industry insights.<br>🌱 I’m currently learning DSA, Linux, Git, and backend development fundamentals.<br>💬 Ask me about problem solving, learning strategies, and CS fundamentals.<br>⚡ Fun fact I enjoy refining and optimizing things until they feel complete.
+🔭 I’m currently working on strengthening my DSA and core CS fundamentals.<br>🧑‍🤝‍🧑 I’m looking to collaborate on competitive programming, open source, and impactful software projects.<br>🤝 I’m looking for help with gaining real world development exposure and industry insights.<br>🌱 I’m currently learning DSA, Linux, Git, and backend development fundamentals.<br>💬 Ask me about problem solving, learning strategies, and CS fundamentals.<br>⚡ Fun fact I enjoy refining and optimizing things until they feel complete.
 
 
 ## 🌐 Socials:
